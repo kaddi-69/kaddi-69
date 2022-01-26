@@ -1,6 +1,6 @@
 Hi! I Am Alee Akram. A Student-Developer based in Pakistan!
 <hr>
-I am a 18 year-old 12th grader. Currently Studying in Pacific College, I discovered and fell in love with React.js around the early 2019s. My future interests are in Software Engineering and Aritficial Intelligence. I ❤️ open source and create open source projects a lot too.
+I am a 18 year-old 12th grader. Currently Studying in <a href="http://www.pacific.edu.pk/">Pacific College</a>, I discovered and fell in love with React.js around the early 2019s. My future interests are in Software Engineering and Aritficial Intelligence. I ❤️ open source and create open source projects a lot too.
 
 Also, My <a href="https://prokeyshub.com/">website</a> is pretty cool haha! Check that out too!
 <br>
